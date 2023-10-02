@@ -5,3 +5,4 @@ This is test repo for Github integration to JIRA
 First commit.
 Second commit. 
 Third commit.
+Fourth commit.
