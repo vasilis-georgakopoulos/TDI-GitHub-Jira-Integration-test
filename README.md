@@ -19,4 +19,4 @@ kweurtewiutweutew
 
 TDITEST-75-test branch additions:
 1) This is a Jira Project that is not in the list of Projects allowed to interact with Github repositories
-2) Any changes made in this branch should be visible here.
+2) Any changes made in this branch should not be visible in https://kimdev-test.kiongroup.net/jira-test/browse/TDITEST-75
